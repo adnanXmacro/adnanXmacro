@@ -57,25 +57,11 @@ open_to     : Collabs, open source, cool ideas
 ---
 
 
-```
-╔══════════════════════════════════════════════════════╗
-║          adnanXmacro :: runtime stats                ║
-╠══════════════════════════════════════════════════════╣
-║  ⭐  Total Stars Earned   ............   216         ║
-║  👁️   Watchers             ............   843         ║
-║  📦  Public Repos          ............    59         ║
-║  🔀  Total PRs             ............    71         ║
-║  🐛  Issues Closed         ............    43         ║
-║  🌍  Contributed to        ............     8         ║
-╚══════════════════════════════════════════════════════╝
-```
+
 
 ---
 
-```bash
-┌─[adnanXmacro@github]─[~]
-└──╼ $ git log --oneline --graph --all
-```
+
 
 <div align="center">
 
@@ -85,10 +71,6 @@ open_to     : Collabs, open source, cool ideas
 
 ---
 
-```bash
-┌─[adnanXmacro@github]─[~]
-└──╼ $ ping adnanXmacro --all-channels
-```
 
 ```
 PING github.com .............. ✓   github.com/adnanXmacro
