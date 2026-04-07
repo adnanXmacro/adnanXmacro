@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=00FF41&height=200&section=header&text=adnanXmacro&fontSize=60&fontColor=000000&animation=twinkling&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Open%20Source%20Builder&descAlignY=55&descColor=000000)
+![header](https://capsule-render.vercel.app/api?type=waving&color=00FF41&height=200&section=header&text=adnanXmacro&fontSize=60&fontColor=000000&animation=twinkling&fontAlignY=35&desc=Clueless%20Developer%20%7C%20Open%20Source%20Builder&descAlignY=55&descColor=000000)
 
 </div>
 
@@ -19,7 +19,7 @@
 
 ```yaml
 name        : adnanXmacro
-role        : Full-Stack Developer & Tinkerer
+role        : Just a clueless human
 status      : [██████████░░░░░░░░] always building...
 location    : Earth, probably
 motto       : "Ship it. Fix it. Ship it again."
