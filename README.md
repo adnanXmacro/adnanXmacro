@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=800&color=FF0000&background=000000&center=true&vCenter=true&multiline=false&width=650&lines=guest%40adnanXmacro%3A~%24+whoami;%3E+Clueless+Engineer+%26+Open+Source+Builder;%3E+59+repos+and+still+going...;%3E+216+stars+%E2%AD%90+and+counting;%3E+Ship+it.+Fix+it.+Ship+it+again.;%3E+%5BSYSTEM+ONLINE%5D+Welcome+to+my+terminal.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=800&color=FF0000&background=000000&center=true&vCenter=true&multiline=false&width=650&lines=guest%40adnanXmacro%3A~%24+whoami;%3E+Clueless+Engineer+%26+Open+Source+Builder;%3E+59+repos+and+still+going...;%;%3E+Ship+it.+Fix+it.+Ship+it+again.;%3E+%5BSYSTEM+ONLINE%5D+Welcome+to+my+terminal.)](https://git.io/typing-svg)
 
 </div>
 
