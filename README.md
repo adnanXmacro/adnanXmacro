@@ -22,10 +22,6 @@
 
 ---
 
-```bash
-┌─[adnanXmacro@github]─[~]
-└──╼ $ cat about.txt
-```
 
 ```yaml
 name        : adnanXmacro
