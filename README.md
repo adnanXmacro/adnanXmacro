@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=200&section=header&text=adnanXmacro&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Open%20Source%20Builder&descAlignY=55&descColor=ffcccc)
+![header](https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=200&section=header&text=adnanXmacro&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Clueless%20Developer%20%7C%20Open%20Source%20Builder&descAlignY=55&descColor=ffcccc)
 
 </div>
 
