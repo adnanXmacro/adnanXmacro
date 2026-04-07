@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=800&color=FF0000&background=000000&center=true&vCenter=true&multiline=false&width=650&lines=guest%40adnanXmacro%3A~%24+whoami;%3E+Clueless+Developer+%26+Open+Source+Builder;%3E+59+repos+and+still+going...;%3E+216+stars+%E2%AD%90+and+counting;%3E+Ship+it.+Fix+it.+Ship+it+again.;%3E+%5BSYSTEM+ONLINE%5D+Welcome+to+my+terminal.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=800&color=FF0000&background=000000&center=true&vCenter=true&multiline=false&width=650&lines=guest%40adnanXmacro%3A~%24+whoami;%3E+Full-Stack+Engineer+%26+Open+Source+Builder;%3E+59+repos+and+still+going...;%3E+216+stars+%E2%AD%90+and+counting;%3E+Ship+it.+Fix+it.+Ship+it+again.;%3E+%5BSYSTEM+ONLINE%5D+Welcome+to+my+terminal.)](https://git.io/typing-svg)
 
 </div>
 
@@ -23,9 +23,10 @@
 ---
 
 
+
 ```yaml
 name        : adnanXmacro
-role        : Clueless 
+role        : Full-Stack Developer & Tinkerer
 status      : [██████████░░░░░░░░] always building...
 location    : Earth, probably
 motto       : "Ship it. Fix it. Ship it again."
@@ -71,6 +72,10 @@ open_to     : Collabs, open source, cool ideas
 
 ---
 
+```bash
+┌─[adnanXmacro@github]─[~]
+└──╼ $ git log --oneline --graph --all
+```
 
 <div align="center">
 
@@ -86,7 +91,9 @@ open_to     : Collabs, open source, cool ideas
 ```
 
 ```
-
+PING github.com .............. ✓   github.com/adnanXmacro
+Awaiting more socials...           add yours below!
+```
 
 ---
 
