@@ -34,10 +34,7 @@ open_to     : Collabs, open source, cool ideas
 
 ---
 
-```bash
-┌─[adnanXmacro@github]─[~]
-└──╼ $ ls ./tech-stack/
-```
+
 
 <div align="center">
 
@@ -58,10 +55,6 @@ open_to     : Collabs, open source, cool ideas
 
 ---
 
-```bash
-┌─[adnanXmacro@github]─[~]
-└──╼ $ ./stats.sh --runtime
-```
 
 ```
 ╔══════════════════════════════════════════════════════╗
@@ -78,10 +71,6 @@ open_to     : Collabs, open source, cool ideas
 
 ---
 
-```bash
-┌─[adnanXmacro@github]─[~]
-└──╼ $ git log --oneline --graph --all
-```
 
 <div align="center">
 
@@ -97,9 +86,7 @@ open_to     : Collabs, open source, cool ideas
 ```
 
 ```
-PING github.com .............. ✓   github.com/adnanXmacro
-Awaiting more socials...           add yours below!
-```
+
 
 ---
 
